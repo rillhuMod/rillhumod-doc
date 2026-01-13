@@ -6,7 +6,7 @@ The Getting Started Guide provides step-by-step instructions for installing, con
 Guides for working with specific microcontrollers supported by the Beanable SDK are in the devices directory. These include links to additional detail for specific development boards including Beanable S32, Beanable S32-S3, etc.
 
 入门指南
-=======
+================
 
 入门指南提供了安装、配置和构建macOS、Linux和Windows的Beanable SDK的分步说明。
 
