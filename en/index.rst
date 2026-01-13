@@ -1,6 +1,6 @@
 .. include:: ../README.rst
-   
-Welcome to EvoLayer Docs!
+
+Welcome to Beanto Docs!
 ===================================
 
 
@@ -10,7 +10,8 @@ Contents
 
 .. toctree::
 
-   get-started/index
+   Home <self>
+   get-started <get-started/index>
    Development Environment Setup
    Run Application
    How To Develop Application
