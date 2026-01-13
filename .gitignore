@@ -135,4 +135,5 @@ dmypy.json
 
 
 myenv/
+tmp/
 .DS_Store
