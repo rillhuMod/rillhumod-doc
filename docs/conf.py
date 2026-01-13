@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team"
-author = "Read the Docs core team"
+project = "EvoLayer Documentation"
+copyright = "2026, EvoLayer team"
+author = "EvoLayer team"
 
 
 # -- General configuration ---------------------------------------------------
