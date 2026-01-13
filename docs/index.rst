@@ -1,4 +1,4 @@
-Welcome to Beanto Docs!
+Welcome to EvoLayer Docs!
 ===================================
 
 
